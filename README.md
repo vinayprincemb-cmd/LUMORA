@@ -25,3 +25,16 @@ LUMORA is a Future Self Messaging application built using Flutter.
 ## Author
 
 Vinay Kumar Pantam
+## Screenshots
+
+### Home Screen
+![Home Screen](lib/assets/screenshots/homescreen.png.jpeg)
+
+### Write Message
+![Write Message](lib/assets/screenshots/write_message.png.jpeg)
+
+### View Messages
+![View Messages](lib/assets/screenshots/view_messages.png.jpeg)
+
+### Message Detail
+![Message Detail](lib/assets/screenshots/message_detail.png.jpeg)
