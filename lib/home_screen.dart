@@ -642,7 +642,7 @@ You have the right to access, modify, or delete your messages from the app at an
 We may update this policy. Changes are effective immediately upon posting.
 
 9. Contact Us
-For privacy concerns, contact: vinayprince.dev@gmail.com''';
+For privacy concerns, contact: vinayprincemb@gmail.com''';
   }
 
   @override
