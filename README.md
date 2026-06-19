@@ -1,16 +1,27 @@
-# fsms_app
+# LUMORA 💜
 
-A new Flutter project.
+LUMORA is a Future Self Messaging application built using Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Write messages to your future self
+- Time-locked memories
+- Emotional mood categories
+- Archive and restore memories
+- Favorites system
+- Daily motivational quotes
+- Future message notifications
+- Search and filter memories
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- SharedPreferences
+- flutter_local_notifications
+- permission_handler
+- timezone
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+
+Vinay Kumar Pantam
